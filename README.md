@@ -1,7 +1,7 @@
 ### Olá, meu nome é Louvair Lima. 👋
 ### Sou um entusiasta da área de dados, um amor que surgiu recentemente, mas que tenho certeza que será para sempre. 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Louvair Lima GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
