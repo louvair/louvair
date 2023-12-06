@@ -1,5 +1,5 @@
 ### Olá, meu nome é Louvair Lima. 👋
-### Sou um entusiasta da área de dados, um amor que surgiu recentemente, mas que acredito que. 
+### Sou um entusiasta da área de dados, um amor que surgiu recentemente, mas que acredito que será para sempre. 
 
 <!--
 **louvair/louvair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
