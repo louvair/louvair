@@ -1,5 +1,5 @@
 ### Olá, meu nome é Louvair Lima. 👋
-### Sou um entusiasta da área de dados, um amor que surgiu recentemente, mas que tenho certeza que será para sempre. 
+### Sou um entusiasta da área de dados, uma paixão que surgiu recentemente, mas que tenho certeza que será para sempre. 
 
 [![Louvair GitHub stats](https://github-readme-stats.vercel.app/api?username=louvair)](https://github.com/louvair/github-readme-stats)
 
