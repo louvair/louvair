@@ -1,5 +1,5 @@
 ### Olá, meu nome é Louvair Lima. 👋
-### Sou um analista de Business Intelligence (BI) com experiência significativa em diversas ferramentas, incluindo SSIS, SSAS, ETL e consultas SQL. Tenho habilidades no uso do Power BI para desenvolver dashboards interativos e relatórios dinâmicos que são fundamentais para o processo decisório estratégico.
+### Sou um analista de Business Intelligence (BI) com experiência significativa em diversas ferramentas, incluindo SSIS, SSAS, ETL, SQL e Python. Tenho habilidades no uso do Power BI para desenvolver dashboards interativos e relatórios dinâmicos que são fundamentais para o processo decisório estratégico.
 
 [![Louvair GitHub stats](https://github-readme-stats.vercel.app/api?username=louvair)](https://github.com/louvair/github-readme-stats)
 
